@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on Proxmify public project and Pounda private project<br> 
-🌱 I’m currently learning or improving my skills in mathematics, algorithms and AI <br>
+🔭 I’m currently working on [Proxmify](https://github.com/florian-gustin/proxmify) public project and Pounda private project.<br> 
+🌱 I’m currently learning or improving my skills in mathematics, algorithms and AI. <br>
 👯 I’m looking to collaborate on [OpenAPI](https://github.com/quarkiverse/quarkus-openapi-generator).<br>
 
 💬 Im currently very sick so be aware why I might not reach you on time.<br>
